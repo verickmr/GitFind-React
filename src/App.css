@@ -1,0 +1,78 @@
+.conteudo {
+  position: relative;
+
+  display: flex;
+  align-items: flex-start;
+  justify-self: flex-end;
+}
+
+.background {
+  height: 100vh;
+  left: 0;
+}
+
+.info {
+  width: 60%;
+  margin-right: 90px;
+  margin-top: 40px;
+  color: #fff;
+}
+input {
+  border: 1px solid #999;
+  border-radius: 12px;
+  background: transparent;
+  font-size: 12px;
+  padding: 10px;
+  min-width: 250px;
+  margin-left: 12px;
+  width: 80%;
+  color: #fff;
+}
+button {
+  border: 1px solid #999;
+  border-radius: 22px;
+  background: #2d333b;
+  color: #fff;
+  font-size: 12px;
+  padding: 10px;
+  margin-left: 12px;
+}
+
+.perfil {
+  display: flex;
+  margin: 40px 0;
+}
+
+.profile {
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+  border: 2px solid #e5e5e5;
+  margin-right: 32px;
+}
+
+h3 {
+  margin: 0;
+  font-size: 24px;
+  color: #999;
+}
+
+span{
+  display: block;
+  color: #999;
+  font-size: 12px;
+  margin: 0;
+}
+
+p{
+  color: #999;
+  font-size: 12px;
+  margin: 20px 0;
+
+}
+h4{
+  color: #fff;
+  font-size: 32px;
+  margin: 12px 0;
+  text-align: center;
+}
